@@ -1,2 +1,5 @@
-# modern-business-website-
-A modern and responsive business website built with HTML, CSS and JavaScript, featuring a professional UI, smooth animations, responsive layouts, service sections and a clean user-friendly design.
+ 📌 Description
+
+A modern and fully responsive business website designed with a clean, professional, and user-friendly interface. The website features a stylish hero section, business services, about section, contact area, smooth animations, and responsive layouts for desktop, tablet, and mobile devices.
+
+Built with a focus on modern UI/UX, performance, accessibility, and a professional online presence for businesses.
